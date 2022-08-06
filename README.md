@@ -7,4 +7,4 @@ The “installation” of the bookmarklet is performed by creating a new bookmar
 On chromium based browser, you may need to manually add the "javascript:" in front of the url.
 
 ## How to use ?
-When you are on a page, just click on the bookmark.
+When you are on a page with a DOI, just click on the bookmark and it automaticaly changes the url.
