@@ -1,6 +1,6 @@
 javascript:
   function output(text){
-  document.head.insertAdjacentHTML("beforeend", "<style id='snackStyle'> \
+    document.head.insertAdjacentHTML("beforeend", "<style id='snackStyle'> \
         /*snackbar layout code from https://www.w3schools.com/howto/howto_js_snackbar.asp*/ \
         #snackbar  {\
               visibility:  hidden;   /*  Hidden  by  default.  Visible  on  click  */\
@@ -41,7 +41,7 @@ javascript:
               from  {bottom:  30px;  opacity:  1;}\
               to  {bottom:  0;  opacity:  0;}\
           }\
-      </style>");
+          </style>");
       document.body.insertAdjacentHTML("afterbegin",  '<div  id="snackbar">'+text+'</div>');
       var  x  =  document.getElementById("snackbar");
       x.className  =  "show";
