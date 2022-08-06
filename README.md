@@ -9,4 +9,5 @@ The “installation” of the bookmarklet is performed by creating a new bookmar
 When you are on a page, just click on the bookmark.
 
 ## try here
-<a href="javascript: (() => {   alert('Hello, World!'); })();">   Hello, World! </a>
+
+[Link text](linkurl)
