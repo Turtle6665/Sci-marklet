@@ -8,3 +8,4 @@ On chromium based browser, you may need to manually add the "javascript:" in fro
 
 ## How to use ?
 When you are on a page with a DOI, just click on the bookmark and it automaticaly changes the url.
+<a href="exemple.com"> test <a/>
