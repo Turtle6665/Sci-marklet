@@ -9,5 +9,6 @@ On chromium based browser, you may need to manually add the "javascript:" in fro
 ## How to use ?
 When you are on a page with a DOI, just click on the bookmark and it automaticaly changes the url. </br>
 
-[Hello World!][1]
+(Hello World!)[1]
+
 [1]:javascript:alert('Hello World')
