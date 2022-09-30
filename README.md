@@ -8,6 +8,3 @@ On chromium based browser, you may need to manually add the "javascript:" in fro
 
 ## How to use ?
 When you are on a page with a DOI, just click on the bookmark and it automaticaly changes the url. </br>
-
-
-[Hello World](javascript:%28function%28%29%7Balert%28%22Hello%20World%22%29%7D%29%28%29%3B)
